@@ -1,5 +1,5 @@
 # MetadataInjector
-Metadata injector made using ffmpeg
+Metadata injector made using ffmpeg, used for injecting duration metadata tag
 
 ## Usage
 
